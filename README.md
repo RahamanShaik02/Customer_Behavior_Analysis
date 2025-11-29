@@ -8,7 +8,7 @@
 
 I am a Data Analyst with experience in analysing customer behaviour, building dashboards, writing SQL segmentation queries, and transforming data into clear business insights. I enjoy solving real-world problems using data and communicating insights through visualisation and storytelling.
 
-I am currently completing my MSc in **Project Management at the University of East London** and actively developing my analytics portfolio.
+I am currently completing my MSc in **Computer Science at the University of East London** and actively developing my analytics portfolio.
 
 ---
 
@@ -41,8 +41,9 @@ I am currently completing my MSc in **Project Management at the University of Ea
 - Designed “Customer 360” dashboard in Power BI  
 - Delivered strategic recommendations via a Gamma presentation  
 
-🔗 **Repository:**  
-https://github.com/RahamanShaik02/customer-behaviour-analysis
+🔗 **Power bi:**  
+<img width="1472" height="812" alt="image" src="https://github.com/user-attachments/assets/1d129791-d669-4f6d-911d-894cd93a732e" />
+
 
 ---
 
