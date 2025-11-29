@@ -51,7 +51,7 @@ I am currently completing my MSc in **Computer Science at the University of East
 
 - Building more end-to-end portfolio projects  
 - Strengthening SQL + DAX for analytics roles  
-- Preparing for Data Analyst & BI Analyst internships in the UK  
+- Preparing for Data Analyst & BI Analyst jobs in the UK  
 
 ---
 
